@@ -1,0 +1,27 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "An app for dogs to find new friends!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Eric Steinman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "router": "^1.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericsteinman/FriendFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericsteinman/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/ericsteinman/FriendFinder#readme"
+}
